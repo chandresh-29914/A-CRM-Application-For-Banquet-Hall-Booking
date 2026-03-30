@@ -1,6 +1,7 @@
 **📌 Project Overview**
 
-The CRM Application for Banquet Hall Booking is a Salesforce-based solution designed to streamline the process of managing banquet hall reservations, customer details, event scheduling, and payments. This application helps businesses efficiently handle bookings, avoid scheduling conflicts, and improve customer experience.
+*The CRM Application for Banquet Hall Booking is a Salesforce-based solution designed to streamline the process of managing banquet hall reservations, customer details, event scheduling, and payments.
+*This application helps businesses efficiently handle bookings, avoid scheduling conflicts, and improve customer experience.
 
 **🎯 Objectives**
 Simplify banquet hall booking management
