@@ -1,0 +1,9 @@
+trigger BillingRecordCreation on Banquet_Hall_c
+(after insert) {
+if(trigger.isInsert){
+if(trigger.isAfter){
+Billing TriggerHandlerClass. Billing CreationonBooking(trigger.new);
+}
+}
+
+}
